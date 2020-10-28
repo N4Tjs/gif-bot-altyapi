@@ -1,9 +1,5 @@
 const { Discord, MessageEmbed } = require('discord.js');
-const { options, db } = global;
-const moment = require('moment');
-moment.locale('tr');
-require('moment-timezone');
-
+const { options } = global;
 
 exports.run = async (client, message, args) => {
     const victim = message.mentions.members.first() || message.guild.members.cache.get(args[0]) || message.member;
