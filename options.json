@@ -1,0 +1,19 @@
+{
+  "bot": {
+    "token": "",
+    "developers": [],
+    "prefix": "",
+    "status": "",
+    "embedFooter": "",
+    "embedColor": ""
+  },
+  "channels": {
+    "gifChannels": [],
+    "photoChannels": [],
+    "gifLog": "",
+    "ppLog": ""
+  },
+  "roles": {
+    "sharerRole": ""
+  }
+}

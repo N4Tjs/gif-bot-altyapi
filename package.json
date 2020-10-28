@@ -1,0 +1,23 @@
+{
+  "name": "gif-bot",
+  "version": "1.0.0",
+  "description": "Made by BBQ#0001",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "bbq",
+    "xuply"
+  ],
+  "author": "BBQ#0001",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "fs": "0.0.1-security",
+    "lowdb": "^1.0.0",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.31"
+  }
+}
