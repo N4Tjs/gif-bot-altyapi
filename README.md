@@ -7,7 +7,6 @@
 </ul>
 <h3>Tebrikler 🎉</h3>
 
-
 # Örnek Ayarlar Dosyası
 
 ```json
