@@ -33,4 +33,4 @@
 ```
 
 # DIKKAT!
-<h3>Bu altyapı <a href="https://discord.gg/xuply/">Xuply</a> için paylaşılmıştır değiştirilip başka sunucu/insan adına adımızı geçirmeden paylaşılırsa gereken işlemler yapılacaktır.</h3>
+<h3>Bu altyapı <a href="https://discord.com/users/298888568279924746">BBQ</a> tarafından <a href="https://discord.gg/xuply/">Xuply</a> için paylaşılmıştır değiştirilip başka sunucu/kişi adına adımızı geçirmeden paylaşılırsa gereken işlemler yapılacaktır.</h3>
