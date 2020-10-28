@@ -2,17 +2,17 @@
 
 <ul>
   <p><code>1.</code> Projeyi indirdikten sonra modülleri kurmak için konsola <code>npm i</code> yazın.</p>
-  <p><code>2.</code> Modüller kurulduktan sonra <code>options.json</code> içindeki yerleri doldurun</p>
-  <p><code>3.</code> Ardından konsola <code>node server.js</code> yazarak çalıştırın</p>
+  <p><code>2.</code> Modüller kurulduktan sonra <code>options.json</code> içindeki yerleri doldurun.</p>
+  <p><code>3.</code> Ardından konsola <code>node server.js</code> yazarak çalıştırın.</p>
 </ul>
 <h3>Tebrikler 🎉</h3>
 
 # Örnek Ayarlar Dosyası
 
 ```json
-  {
+{
   "bot": {
-    "token": "Tokeniniz",
+    "token": "Botunuzun Tokeni",
     "developers": ["123456789012345678"],
     "prefix": ".",
     "status": "XUPLY ❤️ GIF",
